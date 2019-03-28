@@ -1,7 +1,7 @@
 # DevOps project to automate the deployment process of Scalable and Secure web application into AWS
 
 
-##DevOps Project Scenario
+## DevOps Project Scenario
 
 For this project, please think about how you would architect a scalable and secure static web application in AWS or another IaaS provider.
 
@@ -16,7 +16,7 @@ Develop and apply automated tests to validate the correctness of theserver confi
 Express everything in code and provide your code via a Git repository in GitHub.
 
 
-##Implementation
+## Implementation
 
 .  Install Terraform (https://www.terraform.io/intro/getting-started/install.html)
 .  Add the AWS IAM AWS_ACCESS_KEY_ID and AWS_SECRET_ACCESS_KEY to the environment variable
